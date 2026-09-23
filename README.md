@@ -1,6 +1,6 @@
 # Multimedia Projects
 
-Games, animation and video work from my bachelor's and master's programmes. Playable builds are on
+Games, animation and video work from my bachelor's and master's programmes. Portfolio overview: <https://allan-valin.github.io/>. Playable builds are on
 [dshiryu.itch.io](https://dshiryu.itch.io/). Each game folder holds the full project source; large
 third-party packs are not committed and are listed in each folder's `THIRD_PARTY.md`.
 
@@ -91,8 +91,8 @@ rough cut (mine), final version. Storyboard and shot order are in [`av-productio
 ## PokeType
 
 Small Java tool to check type weaknesses for competitive Pokémon battling. Unlike most calculators it
-lets you stack more than two types, since some moves add a third type. Run `poketype/PokeType.jar`
-(antivirus may flag the JAR as a false positive).
+lets you stack more than two types, since some moves add a third type. **Browser version: <https://allan-valin.github.io/poketype/>** (the JAR gets false-positive antivirus flags).
+Original: `poketype/PokeType.jar`.
 
 <img src="poketype/screenshot.png" alt="PokeType with Fire and Flying selected: Rock 4.0, Ground 0.0" width="246">
 
