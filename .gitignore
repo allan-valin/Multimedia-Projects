@@ -1,0 +1,62 @@
+# ---- Unreal Engine (lagaga/, newvrdrums/) ----
+**/Saved/
+**/Intermediate/
+**/DerivedDataCache/
+**/Binaries/
+**/Build/
+**/.vs/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Third-party UE content: free packs, re-download per THIRD_PARTY.md
+lagaga/Content/StarterContent/
+lagaga/Content/Characters/
+lagaga/Content/StarSparrow/
+lagaga/Content/StylizedRocksLite_JC/
+lagaga/Content/FreeMaterialPack/
+lagaga/Content/LH_95.uasset
+lagaga/Content/LH_95_Mat.uasset
+# Licensed audio bought by the professor: not redistributable
+lagaga/Content/TopDown/BGM/
+lagaga/Content/TopDown/SFX/
+newvrdrums/Content/Maps/Fab/
+newvrdrums/Content/Characters/
+newvrdrums/Content/DefaultVRFiles/
+newvrdrums/Content/StarterContent/
+newvrdrums/Content/Drums/3D_Model/
+
+# ---- Unity (ipa-quest/) ----
+ipa-quest/[Ll]ibrary/
+ipa-quest/[Tt]emp/
+ipa-quest/[Oo]bj/
+ipa-quest/[Bb]uild/
+ipa-quest/[Bb]uilds/
+ipa-quest/[Ll]ogs/
+ipa-quest/[Uu]ser[Ss]ettings/
+ipa-quest/.idea/
+ipa-quest/*.csproj
+ipa-quest/*.sln
+# Third-party Unity assets: free asset-store packs, see THIRD_PARTY.md
+ipa-quest/Assets/Cainos/
+ipa-quest/Assets/Cainos.meta
+ipa-quest/Assets/Pixel Adventure 1/
+ipa-quest/Assets/Pixel Adventure 1.meta
+ipa-quest/Assets/PlatformerSet1/
+ipa-quest/Assets/PlatformerSet1.meta
+ipa-quest/Assets/TextMesh Pro/
+ipa-quest/Assets/TextMesh Pro.meta
+
+# ---- Blender ----
+*.blend1
+*.blend2
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
