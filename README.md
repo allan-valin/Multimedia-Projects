@@ -14,6 +14,7 @@ third-party packs are not committed and are listed in each folder's `THIRD_PARTY
 | [Blender short](#blender-short) | Blender | [YouTube](https://youtu.be/PU85iHkLb8Q) | [`blender-animation/`](blender-animation/) |
 | [AV production](#av-production) | DaVinci Resolve | [YouTube](https://youtu.be/4o1PCR2Bwsg) | [`av-production/`](av-production/) |
 | [PokeType](#poketype) | Java | | [`poketype/`](poketype/) |
+| [Photography](#photography) | Nikon, HDR | | [`photography/`](photography/) |
 
 ## IPA Quest
 
@@ -92,3 +93,12 @@ rough cut (mine), final version. Storyboard and shot order are in [`av-productio
 Small Java tool to check type weaknesses for competitive Pokémon battling. Unlike most calculators it
 lets you stack more than two types, since some moves add a third type. Run `poketype/PokeType.jar`
 (antivirus may flag the JAR as a false positive).
+
+<img src="poketype/screenshot.png" alt="PokeType with Fire and Flying selected: Rock 4.0, Ground 0.0" width="246">
+
+## Photography
+
+Environment shots from the digital photography course (2023), mostly HDR merges of 3 to 5 exposures at
+ISO 100, f/8. Web-sized copies (2000 px); click for the larger version.
+
+<table><tr><td><a href="photography/DSC_0068-HDR.jpg"><img src="photography/thumb_DSC_0068-HDR.jpg" width="180" alt="DSC_0068-HDR.jpg"></a></td><td><a href="photography/DSC_0071-HDR.jpg"><img src="photography/thumb_DSC_0071-HDR.jpg" width="180" alt="DSC_0071-HDR.jpg"></a></td><td><a href="photography/DSC_0074-HDR.jpg"><img src="photography/thumb_DSC_0074-HDR.jpg" width="180" alt="DSC_0074-HDR.jpg"></a></td><td><a href="photography/DSC_0083-HDR.jpg"><img src="photography/thumb_DSC_0083-HDR.jpg" width="180" alt="DSC_0083-HDR.jpg"></a></td></tr><tr><td><a href="photography/DSC_0086-HDR.jpg"><img src="photography/thumb_DSC_0086-HDR.jpg" width="180" alt="DSC_0086-HDR.jpg"></a></td><td><a href="photography/DSC_0089-HDR.jpg"><img src="photography/thumb_DSC_0089-HDR.jpg" width="180" alt="DSC_0089-HDR.jpg"></a></td><td><a href="photography/DSC_0095-HDR.jpg"><img src="photography/thumb_DSC_0095-HDR.jpg" width="180" alt="DSC_0095-HDR.jpg"></a></td><td><a href="photography/DSC_0101-HDR.jpg"><img src="photography/thumb_DSC_0101-HDR.jpg" width="180" alt="DSC_0101-HDR.jpg"></a></td></tr><tr><td><a href="photography/DSC_0110-HDR-2.jpg"><img src="photography/thumb_DSC_0110-HDR-2.jpg" width="180" alt="DSC_0110-HDR-2.jpg"></a></td><td><a href="photography/DSC_0116-HDR.jpg"><img src="photography/thumb_DSC_0116-HDR.jpg" width="180" alt="DSC_0116-HDR.jpg"></a></td><td><a href="photography/DSC_0119-HDR.jpg"><img src="photography/thumb_DSC_0119-HDR.jpg" width="180" alt="DSC_0119-HDR.jpg"></a></td><td><a href="photography/DSC_0122-HDR.jpg"><img src="photography/thumb_DSC_0122-HDR.jpg" width="180" alt="DSC_0122-HDR.jpg"></a></td></tr><tr><td><a href="photography/DSC_0125-HDR.jpg"><img src="photography/thumb_DSC_0125-HDR.jpg" width="180" alt="DSC_0125-HDR.jpg"></a></td><td><a href="photography/DSC_0131-HDR.jpg"><img src="photography/thumb_DSC_0131-HDR.jpg" width="180" alt="DSC_0131-HDR.jpg"></a></td><td><a href="photography/DSC_0133-HDR.jpg"><img src="photography/thumb_DSC_0133-HDR.jpg" width="180" alt="DSC_0133-HDR.jpg"></a></td><td><a href="photography/DSC_0142-HDR.jpg"><img src="photography/thumb_DSC_0142-HDR.jpg" width="180" alt="DSC_0142-HDR.jpg"></a></td></tr><tr><td><a href="photography/DSC_0145.jpg"><img src="photography/thumb_DSC_0145.jpg" width="180" alt="DSC_0145.jpg"></a></td><td><a href="photography/DSC_0147-HDR.jpg"><img src="photography/thumb_DSC_0147-HDR.jpg" width="180" alt="DSC_0147-HDR.jpg"></a></td><td><a href="photography/JON_3248-HDR.jpg"><img src="photography/thumb_JON_3248-HDR.jpg" width="180" alt="JON_3248-HDR.jpg"></a></td><td><a href="photography/JON_3279-HDR.jpg"><img src="photography/thumb_JON_3279-HDR.jpg" width="180" alt="JON_3279-HDR.jpg"></a></td></tr><tr><td><a href="photography/JON_3476.jpg"><img src="photography/thumb_JON_3476.jpg" width="180" alt="JON_3476.jpg"></a></td><td><a href="photography/JON_3758-HDR.jpg"><img src="photography/thumb_JON_3758-HDR.jpg" width="180" alt="JON_3758-HDR.jpg"></a></td></tr></table>
